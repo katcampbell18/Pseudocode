@@ -1,0 +1,18 @@
+Find the average score
+
+declare int num_of_score, int score, int sum, int avg;
+for(counter = 0; counter < 10; counter++){
+	prompt user for score;
+	get score;
+	sum = sum + score;
+	}
+	avg = sum / num_of_score;
+display avg;
+
+
+Water runoff
+
+declare int roof_length, int roof_width, int rain, int water;
+	prompt for roof_length, roof_width, rain;
+	calculate water=(rain((roof_lentgh x 12)x(roof_width x 12))/231;
+display water;
